@@ -863,21 +863,28 @@ Features:
 
 ---
 
-# 📌 Page 5 — AI & Predictive Intelligence
+# 📌 Page 5 —  Policy Insights & Decision Support 
 
 Purpose:
 
-Present predictive analytics and Explainable AI.
+Transform statistical, spatial, and machine learning outputs into actionable policy recommendations by identifying priority regions, high-risk households, and the key socioeconomic drivers influencing household wellbeing.
 
 Features:
 
-- Machine Learning Performance
-- Model Comparison
-- SHAP Feature Importance
-- Explainable AI Visualizations
-- Household Risk Prediction
-- Feature Contribution Analysis
-- Policy Insights
+- Policy Priority Score
+- High-Risk Household Identification
+- National Average Wellbeing KPI
+- Best & Worst Performing States
+- Top Policy Priority States
+- Top Policy Priority Districts
+- Policy Risk Matrix
+- Executive Policy Recommendation Table
+- Key Driver Ranking (Explainable AI)
+- Interactive State & District Filters
+- AI-Driven Policy Recommendations
+- Evidence-Based Decision Support
+- Household Risk Assessment
+- Regional Development Prioritization
 
 <p align="center">
 
